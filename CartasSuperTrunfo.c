@@ -69,4 +69,4 @@ int main(){
     printf("cidade: %s\n", cidade);
 
     return 0;
-}hbvgvnhgc
+}
